@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the thesis and/or the software as appropriate."
+
+title: "Forecasting Coffee Price Variability and Producers’ Net Income in Mexico with Interpretable Machine Learning"
+type: software
+version: 1.0.0
+date-released: 2026-02-10
+license: MIT
+
+authors:
+  - family-names: "Monter Corona"
+    given-names: "Arait"
+    affiliation: "Universidad Nacional Autónoma de México (UNAM)"
+    country: "MX"
+    orcid: "https://orcid.org/0000-0000-0000-0000"  # optional
+
+repository-code: "https://github.com/<your-username>/<your-repo>"
+url: "https://github.com/<your-username>/<your-repo>"
+
+preferred-citation:
+  type: thesis
+  title: "Forecasting Coffee Price Variability and Producers’ Net Income in Mexico with Interpretable Machine Learning"
+  authors:
+    - family-names: "Monter Corona"
+      given-names: "Arait"
+      affiliation: "Universidad Nacional Autónoma de México (UNAM)"
+      country: "MX"
+      orcid: "https://orcid.org/0000-0000-0000-0000"  # optional
+  institution: "Universidad Nacional Autónoma de México (UNAM)"
+  date: 2026
+  thesis-type: "Bachelor's thesis"
+ # or Zenodo/handle link
